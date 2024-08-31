@@ -1,0 +1,12 @@
+// let a =5;
+// a += 3;
+// console.log(a);
+let a =4;
+a **=5;
+console.log(a);
+let b = 3;
+a ++ ;
+console.log(b);
+let g = 7;
+g /=3;
+console.log(g);
